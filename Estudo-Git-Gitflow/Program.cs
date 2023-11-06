@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-            Console.WriteLine("Bom dia / Boa tarde / Boa noite");
+            Console.WriteLine("Bom Dia! / Boa Tarde! / Boa Noite!");
         }
     }
 }
